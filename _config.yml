@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is done for the pourpouse of training with GitHub.
   It's a warmup before diving into Python.
   This is not the page you are looking for.
+  Move along.
 
 # social links
 twitter_username: blacklagoonzack # DO NOT include the @ character, or else the build will fail!
